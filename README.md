@@ -39,10 +39,3 @@ This repository contains the analysis and findings from a study aiming to identi
             •	GPArotation: For factor rotation techniques.
             •	tidyverse: For data manipulation and visualization.
             •	zoo: For handling missing data through interpolation.
-
-📂 File Structure
-    
-        •	data/: Contains the cleaned and standardized dataset.
-        •	scripts/: Includes R scripts for data preprocessing, factor analysis, and visualization.
-        •	results/: Output files such as scree plots, factor loadings, and correlation matrices.
-        •	docs/: Detailed documentation of methods and results.
